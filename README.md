@@ -6,4 +6,4 @@ KDU:https://cdn.discordapp.com/attachments/845205031141376000/877573152190910505
 DRIVER:https://cdn.discordapp.com/attachments/845205031141376000/877573161682620477/o4lXj.sys
 Menu:https://media.discordapp.net/attachments/845205031141376000/877574028871737345/unknown.png?width=1116&height=630
 Loaeder:https://cdn.discordapp.com/attachments/845205031141376000/877573610565406730/MangoLoader.exe
-Dll:https://cdn.discordapp.com/attachments/845205031141376000/877598987513921647/gay.dll
+Dll:https://cdn.discordapp.com/attachments/845205031141376000/877598987513921647/gay.dll ( credit McIvan#6969 )
